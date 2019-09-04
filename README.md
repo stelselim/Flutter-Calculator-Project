@@ -3,7 +3,7 @@ Minimalistic Design Calculator for Android &amp; IOS mobile app
 
 
 Icon of App:
-[Image](https://github.com/stelselim/Flutter-Calculator-Project/blob/master/images.png)
+![Image](https://github.com/stelselim/Flutter-Calculator-Project/blob/master/images.png)
 
 
 Screenshots from debugging on IOS & Android Emulators.
